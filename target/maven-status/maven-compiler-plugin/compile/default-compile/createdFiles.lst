@@ -1,0 +1,7 @@
+com\tnsif\adminservice\entity\Admin.class
+com\tnsif\adminservice\controller\AdminController.class
+com\tnsif\adminservice\ShoppingMallManagementApplication.class
+com\tnsif\adminservice\config\AppConfig.class
+com\tnsif\adminservice\service\AdminService.class
+com\tnsif\adminservice\config\AppConfig$1.class
+com\tnsif\adminservice\repository\AdminRepository.class
